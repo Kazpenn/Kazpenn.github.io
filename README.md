@@ -8,4 +8,8 @@ look for work after this bootcamp in Android app devolopment.
 	
 ## Current projects
 
+* Hello World: Java console application
+      
+ * Hello World: Android app
+ 
 ## Links
