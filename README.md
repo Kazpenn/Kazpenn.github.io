@@ -14,4 +14,4 @@ look for work after this bootcamp in Android app devolopment.
  
 ## Links
 
- * [GitHub] (https://github.com/Kazpenn)
+ * [GitHub]({https://github.com/Kazpenn})
