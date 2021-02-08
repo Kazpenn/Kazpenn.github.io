@@ -10,6 +10,6 @@ look for work after this bootcamp in Android app devolopment.
 
 * Hello World: Java console application
       
- * Hello World: Android app
+* Hello World: Android app
  
 ## Links
